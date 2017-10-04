@@ -8,4 +8,4 @@
   - react-native run-android     (to run on Android)
 
 ## This project was created through
-  - react-native init (name of the project)
+  - react-native init {name of the project}
