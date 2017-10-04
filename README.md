@@ -5,7 +5,7 @@
 
 ## QUICKSTART
   - npm install
-  - react-native run-android (to run on Android)
+  - react-native run-android     (to run on Android)
 
-This project was created through
-  - react-native init <name of the project>
+## This project was created through
+  - react-native init (name of the project)
