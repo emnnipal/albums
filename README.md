@@ -1,7 +1,7 @@
 ## Requirements:
-  -Android Studio with Marshmallow/above
-  -Java SE
-  -Python^2.0.0
+  - Android Studio with Marshmallow/above
+  - Java SE
+  - Python^2.0.0
 
 ## QUICKSTART
   - npm install
